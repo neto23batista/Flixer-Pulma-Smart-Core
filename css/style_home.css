@@ -70,13 +70,34 @@ video {
     height: 150px;
 }
 
-#carouselExampleControls {
+#carouselExampleControls1 {
     background-color: transparent;
     position: absolute;
     bottom: -60px;
     left: 50px;
 }
 
+#carouselExampleControls2 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -180px;
+    left: 50px;
+    
+}
+
+#carouselExampleControls3 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -270px;
+    left: 50px;
+}
+
+#carouselExampleControls4 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -320px;
+    left: 50px;
+}
 .titulo-carrossel {
     color: white;
     font-size: 30px;   
