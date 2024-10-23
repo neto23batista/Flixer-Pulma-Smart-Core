@@ -8,7 +8,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     // Validação simples (substitua por autenticação real conforme necessário)
     if (username === 'admin' && password === '12345') {
         errorMessage.textContent = '';
-        alert('Login bem-sucedido!');
+        alert('Redirecionando!');
         // Aqui você pode redirecionar o usuário para outra página
         window.location.href = "home.html";
     } else {
