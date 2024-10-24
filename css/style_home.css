@@ -83,6 +83,7 @@ video {
     position: absolute;
     bottom: -435px;
     left: 50px;
+    right: 30px;
     
 }
 
@@ -91,6 +92,7 @@ video {
     position: absolute;
     bottom: -735px;
     left: 50px;
+    right: 30px;
 }
 
 #carouselExampleControls4 {
@@ -98,6 +100,7 @@ video {
     position: absolute;
     bottom: -1030px;
     left: 50px;
+    right: 30px;
 }
 .titulo-carrossel {
     color: white;
