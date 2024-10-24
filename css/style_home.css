@@ -67,20 +67,21 @@ video {
 }
 
 .imagem-carrossel {
-    height: 150px;
+    height: 225px;
 }
 
 #carouselExampleControls {
     background-color: transparent;
     position: absolute;
-    bottom: -60px;
+    bottom: -145px;
     left: 50px;
+    right: 30px;
 }
 
 #carouselExampleControls2 {
     background-color: transparent;
     position: absolute;
-    bottom: -300px;
+    bottom: -435px;
     left: 50px;
     
 }
@@ -88,14 +89,14 @@ video {
 #carouselExampleControls3 {
     background-color: transparent;
     position: absolute;
-    bottom: -400px;
+    bottom: -735px;
     left: 50px;
 }
 
 #carouselExampleControls4 {
     background-color: transparent;
     position: absolute;
-    bottom: -500px;
+    bottom: -1030px;
     left: 50px;
 }
 .titulo-carrossel {
