@@ -25,7 +25,7 @@ ul {
 
 .capa {
     position: absolute;
-    bottom: -980%;   /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
+    bottom: -600px;   /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
     left: 5%;
     width: 35%;
     z-index: 3;
@@ -42,4 +42,15 @@ ul {
     color: white;
     font-size: 20px;
     margin-bottom: 5px;
+}
+
+.botao-login{
+    background-color: purple;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 4;
+    position: absolute;
+    top: 15px;
+    right: 20px;
 }
