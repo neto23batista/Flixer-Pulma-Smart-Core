@@ -102,6 +102,55 @@ video {
     left: 50px;
     right: 30px;
 }
+
+#carouselExampleControls5 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -1325px;
+    left: 50px;
+    right: 30px;
+}
+
+#carouselExampleControls6 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -1620px;
+    left: 50px;
+    right: 30px;
+}
+
+#carouselExampleControls7 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -1915px;
+    left: 50px;
+    right: 30px;
+}
+
+#carouselExampleControls8 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -2210px;
+    left: 50px;
+    right: 30px;
+}
+
+#carouselExampleControls9 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -2505px;
+    left: 50px;
+    right: 30px;
+}
+
+#carouselExampleControls10 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -2800px;
+    left: 50px;
+    right: 30px;
+}
+
 .titulo-carrossel {
     color: white;
     font-size: 30px;   
