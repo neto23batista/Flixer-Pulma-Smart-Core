@@ -7,8 +7,6 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
 
     // Validação simples (substitua por autenticação real conforme necessário)
     if (username === 'pumasmartcore@senai.edu.br' && password === '311024') {
-        errorMessage.textContent = '';
-        alert('Redirecionando!');
         // Aqui você pode redirecionar o usuário para outra página
         window.location.href = "home.html";
     } else {

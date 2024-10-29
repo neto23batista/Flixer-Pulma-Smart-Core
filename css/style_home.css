@@ -73,7 +73,7 @@ video {
 #carouselExampleControls {
     background-color: transparent;
     position: absolute;
-    bottom: -145px;
+    bottom: -85px;
     left: 50px;
     right: 30px;
 }
@@ -81,7 +81,7 @@ video {
 #carouselExampleControls2 {
     background-color: transparent;
     position: absolute;
-    bottom: -435px;
+    bottom: -380px;
     left: 50px;
     right: 30px;
     
@@ -90,7 +90,7 @@ video {
 #carouselExampleControls3 {
     background-color: transparent;
     position: absolute;
-    bottom: -735px;
+    bottom: -680px;
     left: 50px;
     right: 30px;
 }
@@ -98,7 +98,7 @@ video {
 #carouselExampleControls4 {
     background-color: transparent;
     position: absolute;
-    bottom: -1030px;
+    bottom: -980px;
     left: 50px;
     right: 30px;
 }
@@ -106,7 +106,7 @@ video {
 #carouselExampleControls5 {
     background-color: transparent;
     position: absolute;
-    bottom: -1325px;
+    bottom: -1275px;
     left: 50px;
     right: 30px;
 }
@@ -114,7 +114,7 @@ video {
 #carouselExampleControls6 {
     background-color: transparent;
     position: absolute;
-    bottom: -1620px;
+    bottom: -1560px;
     left: 50px;
     right: 30px;
 }
@@ -122,7 +122,7 @@ video {
 #carouselExampleControls7 {
     background-color: transparent;
     position: absolute;
-    bottom: -1915px;
+    bottom: -1850px;
     left: 50px;
     right: 30px;
 }
@@ -130,7 +130,7 @@ video {
 #carouselExampleControls8 {
     background-color: transparent;
     position: absolute;
-    bottom: -2210px;
+    bottom: -2150px;
     left: 50px;
     right: 30px;
 }
@@ -138,7 +138,7 @@ video {
 #carouselExampleControls9 {
     background-color: transparent;
     position: absolute;
-    bottom: -2505px;
+    bottom: -2440px;
     left: 50px;
     right: 30px;
 }
@@ -146,7 +146,7 @@ video {
 #carouselExampleControls10 {
     background-color: transparent;
     position: absolute;
-    bottom: -2800px;
+    bottom: -2745px;
     left: 50px;
     right: 30px;
 }
@@ -168,6 +168,18 @@ video {
     right: 20px;
 }
 
+#botao-pesquisa {
+    background-color: transparent;
+    border: none;
+    border-radius: 2px;
+    height: 2px;
+    cursor: pointer;
+    z-index: 1;
+    position: absolute;
+    top: 5px;
+    right: 1px;
+}
+
 .modal {
     display: none;  /* Mostrar NADA */
     position: fixed;
@@ -185,17 +197,6 @@ video {
     padding: 20px;
     width: 60%;
     color: white;
-}
-
-.botao-pesquisa {
-    background-color: transparent;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    z-index: 4;
-    position: absolute;
-    top: 10px;
-    right: 20px;
 }
 
 /* 
