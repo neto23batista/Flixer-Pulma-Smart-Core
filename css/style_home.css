@@ -26,12 +26,12 @@ ul {
 video {
     width: 100vw; /* Largura */
     min-height: 80vh; /* Altura */
-    margin-top: -40px;
+    margin-top: -95px;
 }
 
 .capa {
     position: absolute;
-    bottom: 20%;   /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
+    bottom: 30%;   /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
     left: 5%;
     width: 35%;
     z-index: 3;
@@ -39,7 +39,7 @@ video {
 
 .capa-titulo {
     color: white;
-    font-size: 60px;  /* Tamanho da fonte */
+    font-size: 30px;  /* Tamanho da fonte */
     margin-bottom: 5px;
     font-weight: bold; /* Grossura da fonte */
 }
@@ -164,7 +164,7 @@ video {
     cursor: pointer;
     z-index: 4;
     position: absolute;
-    top: 600px;
+    top: 500px;
     right: 20px;
 }
 
