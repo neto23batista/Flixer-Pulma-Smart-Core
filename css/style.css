@@ -11,7 +11,7 @@ body {
 
 ul {
     height: 20px;
-    width: 95%; /* Largura */
+    width: 100%; /* Largura */
     display: flex;
     justify-content: space-between;
     list-style-type: none;
@@ -53,4 +53,15 @@ ul {
     position: absolute;
     top: 15px;
     right: 20px;
+}
+
+.botao-registrese{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 4;
+    position: absolute;
+    top: 15px;
+    right: 120px;
 }
