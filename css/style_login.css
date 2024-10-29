@@ -6,7 +6,10 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #000000;
+    background-image: url(../img/flixersemfndo.png);
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
