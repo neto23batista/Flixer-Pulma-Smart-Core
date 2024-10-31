@@ -11,7 +11,8 @@ body {
 
 ul {
     height: 25px;
-    width: 95%; /* Largura */
+    width: 95%;
+    /* Largura */
     display: flex;
     justify-content: space-between;
     list-style-type: none;
@@ -20,18 +21,24 @@ ul {
 }
 
 .img-topo {
-    height: 50px;  /* Altura */
+    height: 315px;
+    /*altura*/
+    margin-top: -115px;
+    margin-left: -270px;
 }
 
 video {
-    width: 100vw; /* Largura */
-    min-height: 80vh; /* Altura */
+    width: 100vw;
+    /* Largura */
+    min-height: 80vh;
+    /* Altura */
     margin-top: -95px;
 }
 
 .capa {
     position: absolute;
-    bottom: 30%;   /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
+    bottom: 30%;
+    /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
     left: 5%;
     width: 35%;
     z-index: 3;
@@ -39,9 +46,11 @@ video {
 
 .capa-titulo {
     color: white;
-    font-size: 30px;  /* Tamanho da fonte */
+    font-size: 30px;
+    /* Tamanho da fonte */
     margin-bottom: 5px;
-    font-weight: bold; /* Grossura da fonte */
+    font-weight: bold;
+    /* Grossura da fonte */
 }
 
 .capa-descricao {
@@ -55,7 +64,8 @@ video {
     color: black;
     padding: 10px 20px;
     border-radius: 4px;
-    cursor: pointer; /* Mãosinha */
+    cursor: pointer;
+    /* Mãosinha */
 }
 
 .link-info {
@@ -84,7 +94,7 @@ video {
     bottom: -380px;
     left: 50px;
     right: 30px;
-    
+
 }
 
 #carouselExampleControls3 {
@@ -153,7 +163,7 @@ video {
 
 .titulo-carrossel {
     color: white;
-    font-size: 30px;   
+    font-size: 30px;
     margin-bottom: 10px;
 }
 
@@ -164,7 +174,7 @@ video {
     cursor: pointer;
     z-index: 4;
     position: absolute;
-    top: 550px;
+    top: 500px;
     right: 20px;
 }
 
@@ -181,7 +191,8 @@ video {
 }
 
 .modal {
-    display: none;  /* Mostrar NADA */
+    display: none;
+    /* Mostrar NADA */
     position: fixed;
     z-index: 5;
     left: 0;
@@ -193,7 +204,7 @@ video {
 
 .modal-conteudo {
     background-color: #181818;
-    margin: 30px auto; 
+    margin: 30px auto;
     padding: 20px;
     width: 60%;
     color: white;
@@ -203,6 +214,6 @@ video {
     Classe = .
     ID = #
 */
-#lupa{
+#lupa {
     width: 20px;
 }
