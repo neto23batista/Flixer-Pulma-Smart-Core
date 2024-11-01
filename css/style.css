@@ -29,7 +29,7 @@ ul {
 video {
     width: 100vw;
     /* Largura */
-    min-height: 80vh;
+    min-height: 50vh;
     /* Altura */
     margin-top: -95px;
 }
