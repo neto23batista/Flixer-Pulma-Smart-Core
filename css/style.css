@@ -26,9 +26,18 @@ ul {
         margin-left: -270px;
 }
 
+video {
+    width: 100vw;
+    /* Largura */
+    min-height: 80vh;
+    /* Altura */
+    margin-top: -95px;
+}
+
 .capa {
     position: absolute;
-    bottom: -600px;   /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
+    bottom: 30%;
+    /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
     left: 5%;
     width: 35%;
     z-index: 3;
@@ -36,17 +45,18 @@ ul {
 
 .capa-titulo {
     color: white;
-    font-size: 45px;  /* Tamanho da fonte */
+    font-size: 30px;
+    /* Tamanho da fonte */
     margin-bottom: 5px;
-    font-weight: bold; /* Grossura da fonte */
+    font-weight: bold;
+    /* Grossura da fonte */
 }
 
 .capa-descricao {
     color: white;
-    font-size: 20px;
-    margin-bottom: 5px;
+    font-size: 15px;
+    margin-bottom: 20px;
 }
-
 .botao-login{
     background-color: purple;
     border: none;
