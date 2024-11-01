@@ -130,8 +130,9 @@ body{
 
   a{
     text-decoration: none;
-    color: rgb(52, 236, 83);
+    color:#ffffff;
   }
+
   a:hover{
     text-decoration: underline;
   }

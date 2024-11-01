@@ -20,7 +20,10 @@ ul {
 }
 
 .img-topo {
-    height: 50px;  /* Altura */
+        height: 315px;
+        /*altura*/
+        margin-top: -115px;
+        margin-left: -270px;
 }
 
 .capa {
