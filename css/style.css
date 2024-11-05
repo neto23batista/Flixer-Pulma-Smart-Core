@@ -36,7 +36,7 @@ video {
 
 .capa {
     position: absolute;
-    bottom: 30%;
+    bottom: -500px;
     /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
     left: 5%;
     width: 35%;
@@ -77,4 +77,13 @@ video {
     position: absolute;
     top: 15px;
     right: 120px;
+}
+
+.card {
+    position: absolute;
+    bottom: -800px;
+    /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
+    left: 5%;
+    width: 35%;
+    z-index: 3;
 }
