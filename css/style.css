@@ -80,10 +80,12 @@ video {
 }
 
 .card {
-    position: absolute;
-    bottom: -800px;
+    /*Tirar duvida com o profressor sobre o card de preços da one page */
     /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
-    left: 5%;
     width: 35%;
-    z-index: 3;
+    z-index: 4;
+    position: absolute;
+    bottom: -700px;
+    left: 50px;
+    right: 30px;
 }
