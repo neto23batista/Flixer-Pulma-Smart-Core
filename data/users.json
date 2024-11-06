@@ -8,5 +8,10 @@
         "name": "Renan",
         "email": "renan@senai.com.br",
         "password": "Renan"
+    },
+    {
+        "name": "Puma",
+        "email": "pumasmartcore@senai.com",
+        "password": "PumaSmartCore"
     }
 ]
