@@ -79,9 +79,24 @@ video {
     right: 120px;
 }
 
-.card {
-    /*Tirar duvida com o profressor sobre o card de preços da one page */
+.titulo-planos {
+    position: absolute;
+    bottom: -600px;
     /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
-    width: 900px;
-    height: 400px;
+    left: 450px;
+    width: 35%;
+    z-index: 3;
+}
+
+.titulo{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 40px;
+
+}
+
+.card{
+    position: absolute;
+    bottom: -800px;
+    right: 9px;
 }
