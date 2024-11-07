@@ -84,7 +84,7 @@ body{
     padding: 1em;
     font: inherit;
     border-radius: 0 10px 10px 0;
-    border: 2px solid var(--input-color);
+    border: 2px solid purple;
     border-left: none;
     background-color: var(--input-color);
     transition: 150ms ease;
@@ -100,7 +100,7 @@ body{
   }
 
   div:has(input:focus) > label{
-    background-color: var(--text-color);
+    background-color: purple;
   }
 
   form input::placeholder{
