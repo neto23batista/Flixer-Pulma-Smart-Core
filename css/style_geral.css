@@ -3,7 +3,7 @@
 :root{
     --accent-color: black;
     --base-color: purple;
-    --text-color: #ffffff;                                                                                                                                                                          
+    --text-color: white;                                                                                                                                                                          
 }
 
 *{
@@ -20,16 +20,15 @@ html{
 
 body{
     min-height: 100vh;
-    background-image: url(../img/oficial.png);
+    background-image: url(../img/login.jpg);
     background-size: cover;
-    background-position: right;
     overflow: hidden;
 }
 
 .wrapper{
     box-sizing: border-box;
     background-color: rgb(0,0,0,0.0);
-    height: 100vh;
+    height: 80vh;
     width: max(40%, 600px);
     padding: 10px;
     border-radius: 0 20px 20px 0;
@@ -37,6 +36,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    
   }
 
   h1{
