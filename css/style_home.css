@@ -21,10 +21,11 @@ ul {
 }
 
 .img-topo {
-    height: 315px;
+    height: px;
+    width: 200px;
     /*altura*/
-    margin-top: -115px;
-    margin-left: -270px;
+    margin-top: 1px;
+    margin-left: 1%;
 }
 
 video {

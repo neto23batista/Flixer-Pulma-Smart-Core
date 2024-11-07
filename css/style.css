@@ -69,7 +69,7 @@ video {
 }
 
 .botao-registrese{
-    background-color: rgb(255, 255, 255);
+    background-color: purple;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -82,10 +82,6 @@ video {
 .card {
     /*Tirar duvida com o profressor sobre o card de preços da one page */
     /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
-    width: 35%;
-    z-index: 4;
-    position: absolute;
-    bottom: -700px;
-    left: 50px;
-    right: 30px;
+    width: 900px;
+    height: 400px;
 }
