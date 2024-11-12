@@ -96,7 +96,9 @@ video {
 }
 
 .card{
+    background-color: transparent;
     position: absolute;
-    bottom: -800px;
-    right: 9px;
+    bottom: -2745px;
+    right: auto;
+    left: auto;
 }
