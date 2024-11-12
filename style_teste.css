@@ -103,8 +103,8 @@ footer p {
 }
 
 .navbar {
-    bottom: -5000px;
-    width: 75%;
+    bottom: 1000px;
+    width: 90%;
     margin: 0 auto;
     padding: 0 auto;
 }
