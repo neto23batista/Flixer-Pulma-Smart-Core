@@ -10,9 +10,9 @@ body {
 }
 
 .container {
-    width: 90%;
+    width: 75%;
     margin: 0 auto;
-    max-width: 1200px;
+    padding: 0 auto;
 }
 
 header {
@@ -100,4 +100,11 @@ footer {
 
 footer p {
     font-size: 14px;
+}
+
+.navbar {
+    bottom: -5000px;
+    width: 75%;
+    margin: 0 auto;
+    padding: 0 auto;
 }
