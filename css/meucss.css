@@ -1,0 +1,11 @@
+.bg-light {
+    background-color: rgb(230, 0, 0) !important;
+}
+
+.navbar-brand {
+    color: blue;
+}
+
+.btn-primary {
+    --bs-btn-bg: red;
+}
