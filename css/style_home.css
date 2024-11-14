@@ -161,6 +161,14 @@ video {
     right: 30px;
 }
 
+#carouselExampleControls11 {
+    background-color: transparent;
+    position: absolute;
+    bottom: -3050px;
+    left: 50px;
+    right: 30px;
+}
+
 .titulo-carrossel {
     color: white;
     font-size: 30px;
